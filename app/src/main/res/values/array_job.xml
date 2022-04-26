@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="joblist">
+        <item>Job</item>
+        <item>Police</item>
+        <item>Doctor</item>
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+</resources>
+    <!--Pengerjaan 24-26 April 2022-->
+    <!--10119241-->
+    <!--Ahmad Fahmi Fahlevi-->
+    <!--IF6-->
